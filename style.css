@@ -93,7 +93,7 @@ nav ul {
 nav ul li {
   display: block;
   text-align: right;
-  border-bottom: 1px solid #fff;
+  border-bottom: 1px solid green;
 }
 
 nav ul li a {
