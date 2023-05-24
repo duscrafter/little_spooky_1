@@ -15,7 +15,7 @@ h4,
 h5,
 p,
 br {
-  color: green;
+  color: rgb(0, 255, 0);
 }
 
 img {
@@ -93,7 +93,7 @@ nav ul {
 nav ul li {
   display: block;
   text-align: right;
-  border-bottom: 1px solid green;
+  border-bottom: 1px solid rgb(0, 255, 0);
 }
 
 nav ul li a {
@@ -101,7 +101,7 @@ nav ul li a {
   padding-right: 20px;
   height: 40px;
   line-height: 40px;
-  color: green;
+  color: rgb(0, 255, 0);
   text-decoration: none;
 }
 
